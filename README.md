@@ -9,6 +9,12 @@
 Este projeto foi desenvolvido como um protótipo funcional para a SmartMart Solutions, uma empresa varejista digital fictícia.  
 O objetivo é fornecer um sistema interno simples e eficiente para cadastro, visualização e análise de produtos e vendas, auxiliando a equipe comercial na tomada de decisões estratégicas.
 
+## Screenshots
+![Tela do sistema](frontend/src/assets/prints/print1.png)
+![Tela do sistema](frontend/src/assets/prints/print2.png)
+![Tela do sistema](frontend/src/assets/prints/print3.png)
+
+
 A aplicação integra:
 
 - Backend em Python (FastAPI)
