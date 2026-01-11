@@ -20,8 +20,6 @@ A aplicação integra:
 - Backend em Python (FastAPI)
 - Frontend em React + TypeScript
 
-Oferecendo um **dashboard visual** com indicadores de faturamento, ranking de vendas e controle de inventário.
-
 ---
 
 ## Objetivos do Sistema
